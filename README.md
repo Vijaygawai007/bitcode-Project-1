@@ -83,7 +83,4 @@ You can also add your **GitHub repository link and app screenshots** to make the
 
 ![Collection View](https://github.com/Vijaygawai007/bitcode-Project-1/blob/main/storyboard/Screen_Shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202026-09-03%20at%2015.21.21.png?raw=true)
 
-### 📱 Tab Bar Navigation
-
-![Tab Bar](Screenshots/tabbar.png)
 
